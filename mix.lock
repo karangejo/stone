@@ -1,0 +1,3 @@
+%{
+  "portmidi": {:hex, :portmidi, "5.1.2", "17a70db5d09885b15f841f878e2f4622996c02cf05ffeb90173d69d38f2589a8", [:make, :mix], [], "hexpm", "988044c7248883db855f129cd784698a300a9b86d4245164449e574545ec7de0"},
+}
